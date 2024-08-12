@@ -15,7 +15,7 @@ Linear regression is an supervised machine learning algorithm. which is used to 
 The linear regression algorithms tries to fit the best fit line on to the independent and dependent features
 <br>
 
-<img src="https://media.geeksforgeeks.orgwp-content/uploads/20231129130431/11111111.png"/>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231129130431/11111111.png"/>
 
 we can obtain the best fit line through <br>
 for simple linear regression<br>
