@@ -15,7 +15,7 @@ Linear regression is an supervised machine learning algorithm. which is used to 
 The linear regression algorithms tries to fit the best fit line on to the independent and dependent features
 <br>
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231129130431/11111111.png"/>
+<img src="https://media.geeksforgeeks.orgwp-content/uploads/20231129130431/11111111.png"/>
 
 we can obtain the best fit line through <br>
 for simple linear regression<br>
@@ -46,39 +46,39 @@ We utilize the cost function to compute the best values in order to get the best
 **Hypothesis of linear regression**
 As we have assumed earlier that our independent feature is the experience i.e X and the respective salary Y is the dependent variable. Let’s assume there is a linear relationship between X and Y then the salary can be predicted using
 
-**Y^i = θ1+θ2xi **
+**Y^i = θ1+θ2xi**
 where,
 Yi = (1,2,3...n) dependent features<br>
 Xi = (1,2,3,...n) independent features<br>
 
-**updatation of  θ1 and θ2 values to get the best-fit line​**
+**updatation of  θ1 and θ2 values to get the best-fit line​**<br>
 To achieve the best-fit regression line, the model aims to predict the target value 𝑌^. Y^ such that the error difference between the predicted value 𝑌^ and the true value Y is minimum. So, it is very important to update the θ1 and θ2 values, to reach the best value that minimizes the error between the predicted y value (pred) and the true y value (y). 
 
 # 2.Types of linear regression
-** Based on independent features **
+**Based on independent features**
 1. Simple linear regression <br>
 simple linear regression having only one independent and dependent feature
 <br>
 2.multiple linear regression<br>
 multiple linear regression has more then one independent and one dependent feature
 
-** based on dependent features **
+**based on dependent features**<br>
 1.Univariate linear regresssion<br>
 is having only on dependent variable<br
 2.multivariate linear regression<br>
 it has more than one dependent variable
 <br>
-** Cost function of linear regression **
+**Cost function of linear regression**<br>
 The cost function or the loss function is nothing but the error or difference between the predicted value Y^ and the true value Y.
 the linear regression uses the mean squared error (mse) as an cost function which calculates the average of the squared errors between the predicted values and the actual values.
 
 <br>
-** Cost function(J)= 1/n n∑i(Y^i−Yi)2 **
+**Cost function(J)= 1/n n∑i(Y^i−Yi)2**
 
-** Gradient Discent **
+**Gradient Discent**
 A linear regression model can be trained using the optimization algorithm gradient descent by iteratively modifying the model’s parameters to reduce the mean squared error (MSE) of the model on a training dataset. To update θ1 and θ2 values in order to reduce the Cost function (minimizing RMSE value) and achieve the best-fit line the model uses Gradient Descent. The idea is to start with random θ1 and θ2 values and then iteratively update the values, reaching minimum cost. 
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230424151248/Gradient-Descent-for-ML-Linear-Regression-(1).webp"?>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230424151248/Gradient-Descent-for-ML-Linear-Regression-(1).webp"/>
 
 
 # 3.Evaluation metrics
