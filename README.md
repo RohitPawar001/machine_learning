@@ -7,15 +7,12 @@ Linear regression is an supervised machine learning algorithm. which is used to 
 1.Working<br>
 2.Types of linear regression<br>
 3.Evaluation metrics<br>
-4.Applications<br>
-5.advantages<br>
-6.disadvantages<br>
 
 # 1.Working
 The linear regression algorithms tries to fit the best fit line on to the independent and dependent features
 <br>
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231129130431/11111111.png"/>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231129130431/11111111.png" style="width: 500px; height: 300px;">
 
 we can obtain the best fit line through <br>
 for simple linear regression<br>
@@ -78,10 +75,36 @@ the linear regression uses the mean squared error (mse) as an cost function whic
 **Gradient Discent**
 A linear regression model can be trained using the optimization algorithm gradient descent by iteratively modifying the model’s parameters to reduce the mean squared error (MSE) of the model on a training dataset. To update θ1 and θ2 values in order to reduce the Cost function (minimizing RMSE value) and achieve the best-fit line the model uses Gradient Descent. The idea is to start with random θ1 and θ2 values and then iteratively update the values, reaching minimum cost. 
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230424151248/Gradient-Descent-for-ML-Linear-Regression-(1).webp"/>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230424151248/Gradient-Descent-for-ML-Linear-Regression-(1).webp"  style="width: 500px; height: 300px;">
 
 
 # 3.Evaluation metrics
+<br>1.mean squared error(mse)<br>2.mean absolute error<br>3.root mean squared error<br>4.r2_score<br>
+1. mse <br>
+Mean Squared Error (MSE) is an evaluation metric that calculates the average of the squared differences between the actual and predicted values for all the data points. The difference is squared to ensure that negative and positive differences don’t cancel each other out.
+
+<br>
+2.Mae <br>
+Mean Absolute Error is an evaluation metric used to calculate the accuracy of a regression model. MAE measures the average absolute difference between the predicted values and actual values.
+Mathematically, MAE is expressed as:<br>
+**MAE= 1/n n∑i=1∣Yi–Y^i∣**
+
+<br>
+3. RMSE<br>
+The square root of the residuals’ variance is the Root Mean Squared Error. It describes how well the observed data points match the expected values, or the model’s absolute fit to the data.
+<br> **sqrt(mse)**
+
+<br>
+4. r2_score<br>
+Coefficient of Determination (R-squared)<br>
+R-Squared is a statistic that indicates how much variation the developed model can explain or capture. It is always in the range of 0 to 1. In general, the better the model matches the data, the greater the R-squared number.
+In mathematical notation, it can be expressed as:<br>
+**R2=1−(RSS/TSS)**
+<br> RSS = resudual sum of squares <br> TSS = Total Sum of Squares<br>
+
+
+
+
 
 
 
