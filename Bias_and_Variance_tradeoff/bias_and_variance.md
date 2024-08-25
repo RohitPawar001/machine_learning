@@ -2,6 +2,9 @@
 
 This repository explores the concepts of bias and variance in machine learning models, focusing on their impact on model performance and strategies for optimization.
 
+<img src="https://github.com/user-attachments/assets/1955a7ba-f013-477f-b153-acb02f65d7c7">
+
+
 ## Table of Contents
 
 1. [Bias and Variance Tradeoff](#bias-and-variance-tradeoff)
