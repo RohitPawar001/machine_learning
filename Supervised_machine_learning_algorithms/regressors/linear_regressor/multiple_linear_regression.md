@@ -11,7 +11,7 @@ Linear regression is a supervised machine learning algorithm used to predict con
 
 Linear regression algorithms aim to fit the best line to the independent and dependent features.
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231129130431/11111111.png" width="300" height="300">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231129130431/11111111.png" width="300" height="400">
 
 ### Simple Linear Regression
 
@@ -90,7 +90,7 @@ Cost function (J) = (1/n) Σᵢ(Ŷᵢ - Yᵢ)²
 ### Gradient Descent
 Gradient descent is an optimization algorithm used to train the model by iteratively modifying parameters to reduce the mean squared error (MSE).
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230424151248/Gradient-Descent-for-ML-Linear-Regression-(1).webp" width="300" height="300">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230424151248/Gradient-Descent-for-ML-Linear-Regression-(1).webp" width="300" height="400">
 
 ## Evaluation Metrics
 
