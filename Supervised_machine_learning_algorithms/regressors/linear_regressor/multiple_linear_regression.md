@@ -90,7 +90,7 @@ Cost function (J) = (1/n) Σᵢ(Ŷᵢ - Yᵢ)²
 ### Gradient Descent
 Gradient descent is an optimization algorithm used to train the model by iteratively modifying parameters to reduce the mean squared error (MSE).
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230424151248/Gradient-Descent-for-ML-Linear-Regression-(1).webp" width="300" height="300"
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230424151248/Gradient-Descent-for-ML-Linear-Regression-(1).webp" width="300" height="300">
 
 ## Evaluation Metrics
 
