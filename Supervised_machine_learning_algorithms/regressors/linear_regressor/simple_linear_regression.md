@@ -35,8 +35,8 @@ Consider the following dataset:
 | 6                  | 80,000     |
 | 8                  | 100,000    |
 
-When plotted, we can draw a line that best fits these points. This line allows us to predict salaries for different experience levels.
-<img src="https://github.com/user-attachments/assets/20c1a8d6-9a07-4127-bd1f-b719d6c1e45f" width="150" height="150">
+When plotted, we can draw a line that best fits these points. This line allows us to predict salaries for different experience levels.<br>
+<img src="https://github.com/user-attachments/assets/20c1a8d6-9a07-4127-bd1f-b719d6c1e45f" width="300" height="300">
 
 For instance, we could predict the salary for an employee with 5 years of experience:
 1. Draw a vertical line at x = 5 years
@@ -70,8 +70,8 @@ Where:
 
 ## Cost Function
 
-The cost function measures the accuracy of our predictions. It quantifies the difference between predicted and actual values.
-<img src="https://github.com/user-attachments/assets/fa817a91-f484-4ce7-b035-0d61df244b57" width="150" height="150">
+The cost function measures the accuracy of our predictions. It quantifies the difference between predicted and actual values.<br>
+<img src="https://github.com/user-attachments/assets/fa817a91-f484-4ce7-b035-0d61df244b57" width="300" height="300">
 
 ### Formula
 
@@ -87,13 +87,13 @@ Our goal is to minimize this cost function to improve the model's accuracy.
 
 ## Gradient Descent
 
-Gradient Descent is an optimization algorithm used to minimize the cost function.
-<img src="https://github.com/user-attachments/assets/1637cb64-c02c-4bb3-82c9-9752d3fbca94" width="150" height="150">
+Gradient Descent is an optimization algorithm used to minimize the cost function.<br>
+<img src="https://github.com/user-attachments/assets/1637cb64-c02c-4bb3-82c9-9752d3fbca94" width="300" height="300">
 
 ### Update Rule
 
-θⱼ := θⱼ - α * (1/m) * Σ(hθ(xᵢ) - yᵢ) * xᵢⱼ
-<img src="https://github.com/user-attachments/assets/3e6a658b-f9be-4fe2-b552-81dd257ecf92" width="150" height="150">
+θⱼ := θⱼ - α * (1/m) * Σ(hθ(xᵢ) - yᵢ) * xᵢⱼ <br>
+<img src="https://github.com/user-attachments/assets/3e6a658b-f9be-4fe2-b552-81dd257ecf92" width="300" height="400">
 
 Where:
 - θⱼ = Parameter to be updated
