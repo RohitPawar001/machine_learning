@@ -22,7 +22,7 @@ Leave-One-Out Cross-Validation (LOOCV) is a specific type of k-fold cross-valida
 
 Here's a visual representation of the Leave-One-Out Cross-Validation process:
 
-![Leave-One-Out Cross-Validation Diagram](loocv-diagram.svg)
+<img src="https://github.com/user-attachments/assets/d2553ed7-9253-467a-b1ab-bba840e5ac7f">
 
 ## Advantages
 
