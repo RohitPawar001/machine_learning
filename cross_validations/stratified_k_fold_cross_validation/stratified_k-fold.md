@@ -15,7 +15,8 @@ Stratified k-fold cross-validation is a variation of k-fold cross-validation tha
 
 ## Visual Representation
 
-![Stratified K-Fold Cross-Validation](stratified-k-fold.svg)
+<img sc="https://github.com/user-attachments/assets/4b3123c4-e4de-4cfb-a4df-80ff6236b12c">
+
 
 ## Advantages
 
