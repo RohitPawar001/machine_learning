@@ -14,7 +14,8 @@ The procedure has a single parameter called `k` that refers to the number of gro
 
 ## Visual Representation
 
-![K-Fold Cross-Validation](k-fold-cross-validation.svg)
+<img src="https://github.com/user-attachments/assets/72f14096-0175-48b9-b867-9d3f4171837a">
+
 
 ## Advantages
 

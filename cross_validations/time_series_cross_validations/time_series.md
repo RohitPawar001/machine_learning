@@ -20,7 +20,8 @@ Similar to forward chaining, but with a fixed-size training set and a growing va
 
 ## Visual Representation
 
-![Time Series Cross-Validation Methods](time-series-cv-methods.svg)
+<img src="https://github.com/user-attachments/assets/7bdc2b92-f25d-4b59-be30-2c7224b96142">
+
 
 ## How It Works
 

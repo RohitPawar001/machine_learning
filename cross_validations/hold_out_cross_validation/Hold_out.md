@@ -18,7 +18,8 @@ Hold-out cross-validation is a simple and widely used technique in machine learn
 
 Here's a visual representation of the hold-out cross-validation process:
 
-![Hold-out Cross-validation Diagram](holdout-cross-validation-diagram.svg)
+<img src="https://github.com/user-attachments/assets/31f55c6b-4d84-471b-875d-b56fecb2eb32">
+
 
 ## Advantages
 

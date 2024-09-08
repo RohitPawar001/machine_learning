@@ -20,7 +20,6 @@ Cross-validation is a crucial technique in machine learning for assessing model 
 
 Cross-validation is a statistical method used to estimate the skill of machine learning models. It involves partitioning a dataset into subsets, training the model on a subset (training set), and validating it on the complementary subset (validation set).
 
-![Cross-Validation Overview](https://api.placeholder.com/400x200?text=Cross-Validation+Overview)
 
 ## Why Use Cross-Validation?
 
@@ -36,7 +35,7 @@ Cross-validation helps to:
 
 K-Fold is the most common type of cross-validation. The data is divided into k subsets, and the model is trained and validated k times.
 
-![K-Fold Cross-Validation](https://api.placeholder.com/400x200?text=K-Fold+Cross-Validation)
+
 
 ### Stratified K-Fold Cross-Validation
 
