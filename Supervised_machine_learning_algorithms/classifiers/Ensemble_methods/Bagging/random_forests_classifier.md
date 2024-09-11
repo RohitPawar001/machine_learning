@@ -10,8 +10,7 @@ This project implements a Random Forest Classifier, a powerful ensemble learning
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
