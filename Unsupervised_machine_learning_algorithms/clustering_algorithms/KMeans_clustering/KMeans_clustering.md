@@ -1,11 +1,7 @@
 # K-means Clustering Algorithm
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/release/python-360/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.19.2-blue.svg)](https://numpy.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-blue.svg)](https://scikit-learn.org/)
 
-This markdown file provides a comprehensive guide to understanding and implementing the K-means clustering algorithm, a fundamental technique in unsupervised machine learning.
+This readme file provides a comprehensive guide to understanding and implementing the K-means clustering algorithm, a fundamental technique in unsupervised machine learning.
 
 ## Table of Contents
 
